@@ -1,0 +1,32 @@
+# ── KiCad ────────────────────────────────────────────────────────────────
+# Local History and tool backups: regenerable, and byte-identical to the
+# working files. See docs/14_Design_Consistency_Audit.md.
+.history/
+.mcp-backups/
+*-backups/
+fp-info-cache
+_autosave-*
+
+# Per-user editor state, not design data
+*.kicad_prl
+
+# Editor lock files
+~*.lck
+*.lck
+
+# ── LTspice ──────────────────────────────────────────────────────────────
+# .asc / .net / .lib are sources and ARE tracked.
+# .raw / .log are simulation results and are ALSO tracked deliberately:
+# they are the evidence behind every simulated figure in docs/.
+# Nothing to ignore here.
+
+# ── Tooling ──────────────────────────────────────────────────────────────
+.ltspice-mcp/
+.obsidian/
+
+# ── OS / editor ──────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*~

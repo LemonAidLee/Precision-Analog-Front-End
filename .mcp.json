@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "ltspice": {
+      "command": "C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\Scripts\\ltspice-mcp.exe",
+      "args": [],
+      "env": {
+        "LTSPICE_MCP_CONFIG": "D:\\Progmata\\Precision Mixed-Signal Data Acquisition Front End (AFE)\\LTSpice_Simulation\\ltspice-mcp.toml"
+      }
+    },
+    "kicad": {
+      "command": "node",
+      "args": ["C:\\Users\\Asus\\MCP\\KiCAD-MCP-Server\\dist\\index.js"],
+      "env": {
+        "NODE_ENV": "production",
+        "KICAD_PYTHON": "D:\\Program File\\KiCAD\\bin\\python.exe",
+        "PYTHONPATH": "D:\\Program File\\KiCAD\\bin\\Lib\\site-packages",
+        "LOG_LEVEL": "info",
+        "KICAD_AUTO_LAUNCH": "false",
+        "KICAD_INTERACTIVE_SCHEMATIC": "false",
+        "KICAD_MCP_DEV": "0",
+        "KICAD_BACKEND": "auto"
+      }
+    }
+  }
+}

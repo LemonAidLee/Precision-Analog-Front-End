@@ -1,0 +1,5 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\Progmata\Precision Mixed-Signal Data Acquisition Front End (AFE)\LTSpice_Simulation\AFE_IntegrationComplete.asc
+Start Time: Mon Aug 24 01:26:26 2026
+Fatal Error: Unknown subcircuit called in:
+   xu1 n001 b +12v -12v vfilter tl082

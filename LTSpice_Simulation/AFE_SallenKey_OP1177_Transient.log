@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\Progmata\Precision Mixed-Signal Data Acquisition Front End (AFE)\LTSpice_Simulation\AFE_SallenKey_OP1177_Transient.asc
+Start Time: Thu Aug 20 15:07:43 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.363 seconds.
+

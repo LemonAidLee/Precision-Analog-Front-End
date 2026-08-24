@@ -1,0 +1,12 @@
+{
+  "board": "D:\\Progmata\\Precision Mixed-Signal Data Acquisition Front End (AFE)\\KiCAD_PCB_Design\\Precision_AFE_ESP32.kicad_pcb",
+  "timestamp": "2026-08-24T13:53:33",
+  "total_violations": 0,
+  "violation_counts": {},
+  "severity_counts": {
+    "error": 0,
+    "warning": 0,
+    "info": 0
+  },
+  "violations": []
+}
